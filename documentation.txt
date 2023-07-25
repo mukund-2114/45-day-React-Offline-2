@@ -1,0 +1,53 @@
+Website: webpage
+
+frontend:  designing or structure
+Ex. HTML ,Css,Php, Bootstrap, React,Django,Tailwind css
+Material Ui
+
+backend:  functionality
+ex. php,python,java, javascript,nodejs
+
+database:  store data
+ex. mysql, oracle, mariadb, mongodb, firebase
+
+
+HTML: website structure
+hypertext markup language
+hypertext: text within text
+markup language: formatted text
+
+head tag:
+	title, style, script,link
+heading tag: h1-h6
+paragraph :p
+pre tag: preformatted tag
+
+block element vs inline element
+
+tag vs element
+
+<h1>   
+</h1>
+<h2> content </h2>
+
+list types:
+	ordered list
+	unordered list
+	descriptive list
+
+
+attribute: starting tag property
+
+
+
+
+
+
+
+
+
+
+
+
+
+
