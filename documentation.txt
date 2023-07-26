@@ -22,7 +22,12 @@ heading tag: h1-h6
 paragraph :p
 pre tag: preformatted tag
 
+by default font-size:16px
+
 block element vs inline element
+
+block element takes full width
+inline element takes only required space
 
 tag vs element
 
@@ -37,6 +42,32 @@ list types:
 
 
 attribute: starting tag property
+
+images: width height  attribute only applicable for img tag
+
+CSS types:
+1	inline: within the opening tags of the element
+2	internal: style tag within the head tag
+3	external: make an external css file and link it
+
+CSS selector
+3	tagname: 
+2	class: multiple styling (.)
+1	id: for unique content (#)
+4	universal : * for every element of the page
+	group: tagname,class,id
+
+
+Css Properties:
+color,background-color,font-size,font-weight
+font-family,text-transform,text-decoration,text-align
+
+
+
+
+
+
+
 
 
 
