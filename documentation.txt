@@ -62,6 +62,25 @@ Css Properties:
 color,background-color,font-size,font-weight
 font-family,text-transform,text-decoration,text-align
 
+display: block inline
+
+box model:
+	margin: spacing outside the content
+	padding: spacing inside the content
+	border: 
+
+float property: left,right
+
+position property: static: by default value
+	            relative: parent
+	            absolute: child
+	            fixed;
+
+	body: top:0; left:0 : relative
+
+
+z-index
+
 
 
 
