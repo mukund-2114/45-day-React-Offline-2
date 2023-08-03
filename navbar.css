@@ -37,20 +37,52 @@ ul{
     margin: 0;
     padding:0;
 }
-li{
+.nav-item{
     background-color: greenyellow;
     margin: 5px;
     display: inline;
     cursor: pointer;
-    opacity: 0.6;
+    /* opacity: 0.6; */
 }
 .navbar2{
     background-color: black;
-    padding: 5px;
+    padding: 10px 15px;
 }
 
 li:hover{
     /* background-color: yellow; */
-    padding: 2px;
-    opacity: 1;
+    /* padding: 2px; */
+    /* opacity: 1; */
+}
+.nav{
+    position: relative;
+
+}
+.dropdown{
+    position: absolute;
+    top: 17px;
+    left: 0;
+    width: 60px;
+    background-color: red;
+    /* color: white; */
+    display: none;
+}
+.nav:hover > .dropdown{
+    display: block;
+}
+.dropdown2{
+    width: 80px;
+    background-color: yellow;
+}
+.nav2{
+    position: relative;
+}
+.dropdown2{
+    position: absolute;
+    top: 0;
+    left: 60px;
+    display: none;
+}
+.nav2:hover > .dropdown2{
+    display: block;
 }

@@ -20,10 +20,26 @@
     <p>Hello</p> -->
     <div class="navbar2">
         <ul>
-            <li>Home</li>
-            <li>About</li>
-            <li>Services</li>
-            <li>Contact</li>
+            <li class="nav-item">Home</li>
+            <li class="nav-item">About</li>
+            <li class="nav-item nav">Services
+                <div class="dropdown">
+                    <ul>
+                        <li>Service 1</li>
+                        <li class="nav2">Service 2
+                            <div class="dropdown2">
+                                <ul>
+                                    <li>Inner Item1</li>
+                                    <li>Inner Item1</li>
+                                    <li>Inner Item1</li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>Service 3</li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">Contact</li>
         </ul>
     </div>
 </body>
