@@ -120,12 +120,52 @@ width,height: 25,50,75,100
 badges
 alert
 
+grid system: responsive
+
+row,column
+total width=100%
+columns = 12
+1-12
+
+12 12/1=12
+12/4 = 3
+even
 
 
+min-width
+xl
+lg
+md
+sm
 
 
+Javascript:
 
+high-level low level
+interpreted: line by line code execution
 
+client side   server side
+
+request response
+
+synchronous
+asynchronous
+
+navbar
+content  async
+footer
+
+api (application programming interface)
+
+single page application
+
+indexing : start 0
+camelCase
+
+background-color
+backgroundColor
+
+variables: for storing data
 
 
 
