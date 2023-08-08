@@ -167,13 +167,40 @@ backgroundColor
 
 variables: for storing data
 
+conditional statement:
+if
+if else
+else if
+switch
+
+for( starting value; condition; increment/decrement){
+	
+}
+starting value
+while( condition){
+	
+}
+
+do{
+	
+}
+while(condition)
 
 
+array: to store multiple values of same datatype
+objects: to store data of multiple datatypes
+	should be in key:value
 
 
+check if number is odd or even
+percentage- grade
+for loop prints 20-1
+print all the even number between 1- 20
+print all the odd number between 1- 20
 
-
-
+array with 10 number
+output array number square
+table   2x1=2
 
 
 
