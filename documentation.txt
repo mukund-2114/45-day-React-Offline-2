@@ -197,10 +197,42 @@ percentage- grade
 for loop prints 20-1
 print all the even number between 1- 20
 print all the odd number between 1- 20
-
 array with 10 number
 output array number square
 table   2x1=2
+
+
+
+print reverse string 
+hide
+edih
+e
+d
+i
+h
+vowels (a,e,i,o,u)
+
+count the number of vowel in the string
+	
+replace the even character with *
+
+
+print the sum of all the numbers in the array
+
+array with some words print the largest word
+
+["hi","hello","hii"]
+
+
+
+var x = 0
+var arr1 = [ "x++","x++","x--"]
+
+ [ "x++","x++","x--","x--","x--","x--"]
+
+output: 1
+
+"x++","x--","--x","x--";
 
 
 
