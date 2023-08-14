@@ -10,7 +10,7 @@ ex. php,python,java, javascript,nodejs
 database:  store data
 ex. mysql, oracle, mariadb, mongodb, firebase
 
-
+a
 HTML: website structure
 hypertext markup language
 hypertext: text within text
@@ -202,6 +202,8 @@ output array number square
 table   2x1=2
 
 
+&& ||
+
 
 print reverse string 
 hide
@@ -223,8 +225,6 @@ array with some words print the largest word
 
 ["hi","hello","hii"]
 
-
-
 var x = 0
 var arr1 = [ "x++","x++","x--"]
 
@@ -235,11 +235,47 @@ output: 1
 "x++","x--","--x","x--";
 
 
+word1 = ["ab","c","d","ef"]  abcdef
+word2 = ["abcdef"]       abcdef
+
+output:true
+
+string = "how are you";
+output: you are how;
+
+array = ["hii how are you","welcome","hello there"];
+
+total word:4
+
+string1 = "abc" string2="defhi";
+string3
+string1< string2
+
+adbecfhi
+
+output: adbecf;
 
 
 
+functions:
+
+function functionname() {
+	
+}
 
 
+calculator(number1,number2, operator '+')
+
+
+events: onclick
+
+
+
+word1="sS" word2 ="kafooSnson";
+output: 2
+
+a ="pPaod" b = "afoifad"
+output = 4
 
 
 
