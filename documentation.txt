@@ -10,7 +10,7 @@ ex. php,python,java, javascript,nodejs
 database:  store data
 ex. mysql, oracle, mariadb, mongodb, firebase
 
-a
+
 HTML: website structure
 hypertext markup language
 hypertext: text within text
@@ -276,6 +276,56 @@ output: 2
 
 a ="pPaod" b = "afoifad"
 output = 4
+
+ES6 
+
+var: can be declared multiple times and values can be changed
+let: can be declared only once and values can be changed	
+const: can be declared only once and values cannot changed;
+function test(){
+	
+}
+
+arrow function:
+
+var test = () => {
+}
+
+
+array destructing:
+for in
+for of
+
+spread operator
+
+...array name
+
+map method
+
+filter method
+
+template literals:backtick
+
+a e i o u
+arr1 = ["how", "are","epo,"uip"]
+2
+count = 0
+
+
+word1 = "helo";
+length == even
+
+output:true
+
+
+a = he     b=lo
+
+
+word2 = "woodrldees"
+a = woodr      b = ldees
+
+
+
 
 
 
