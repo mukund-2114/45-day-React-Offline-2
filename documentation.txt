@@ -324,10 +324,41 @@ a = he     b=lo
 word2 = "woodrldees"
 a = woodr      b = ldees
 
+ReactJs
+
+framework :bootstrap,angular
+library: react, 
+
+for building web applications
+single page web application
+
+jsx:
+
+index.html
+html code -> javascript
+
+javascript
+javascript code->html
 
 
 
 
+node -v
+npm -v
+
+node package manager
+
+npx create-react-app first
+
+
+method 2:
+
+npm i -g create-react-app
+create-react-app demo
+
+cd projectname
+
+npm start
 
 
 
